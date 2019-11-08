@@ -1,8 +1,8 @@
 # Created by: Alessando Sagratini <ale_sagra@hotmail.com>
-# $FreeBSD: head/devel/py-oci/Makefile 512279 2019-09-18 17:14:34Z kai $
+# $FreeBSD: head/devel/py-oci/Makefile 516972 2019-11-07 13:40:53Z meta $
 
 PORTNAME=	oci
-PORTVERSION=	2.6.2
+PORTVERSION=	2.6.3
 CATEGORIES=	devel python
 MASTER_SITES=	CHEESESHOP
 PKGNAMEPREFIX=	${PYTHON_PKGNAMEPREFIX}

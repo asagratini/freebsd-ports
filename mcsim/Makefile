@@ -2,7 +2,7 @@
 # $FreeBSD: head/math/mcsim/Makefile 513654 2019-10-03 08:52:08Z pi $
 
 PORTNAME=	mcsim
-PORTVERSION=	6.1.0
+PORTVERSION=	6.2.0
 CATEGORIES=	math
 MASTER_SITES=	GNU
 

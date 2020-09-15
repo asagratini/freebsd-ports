@@ -2,7 +2,7 @@
 # $FreeBSD: head/databases/py-pymemcache/Makefile 537121 2020-05-31 06:30:24Z tagattie $
 
 PORTNAME=	pymemcache
-PORTVERSION=	3.3.0
+PORTVERSION=	3.4.0
 CATEGORIES=	databases python
 MASTER_SITES=	CHEESESHOP
 PKGNAMEPREFIX=	${PYTHON_PKGNAMEPREFIX}

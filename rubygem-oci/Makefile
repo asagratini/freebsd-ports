@@ -2,7 +2,7 @@
 # $FreeBSD: head/devel/rubygem-oci/Makefile 517118 2019-11-09 10:15:56Z tcberner $
 
 PORTNAME=	oci
-PORTVERSION=	2.10.0
+PORTVERSION=	2.11.0
 CATEGORIES=	devel rubygems
 MASTER_SITES=	RG
 

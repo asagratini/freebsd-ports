@@ -1,8 +1,8 @@
 # Created by: Alessando Sagratini <ale_sagra@hotmail.com>
-# $FreeBSD: head/devel/py-hvac/Makefile 563801 2021-02-02 12:42:12Z rhurlin $
+# $FreeBSD: head/devel/py-hvac/Makefile 564782 2021-02-09 12:55:39Z rhurlin $
 
 PORTNAME=	hvac
-PORTVERSION=	0.10.8
+PORTVERSION=	0.10.9
 CATEGORIES=	devel python
 MASTER_SITES=	CHEESESHOP
 PKGNAMEPREFIX=	${PYTHON_PKGNAMEPREFIX}

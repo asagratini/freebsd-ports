@@ -1,8 +1,7 @@
 # Created by: Alessando Sagratini <ale_sagra@hotmail.com>
-# $FreeBSD: head/databases/py-pymemcache/Makefile 559531 2020-12-28 23:02:12Z antoine $
 
 PORTNAME=	pymemcache
-PORTVERSION=	3.4.1
+PORTVERSION=	3.4.2
 CATEGORIES=	databases python
 MASTER_SITES=	CHEESESHOP
 PKGNAMEPREFIX=	${PYTHON_PKGNAMEPREFIX}

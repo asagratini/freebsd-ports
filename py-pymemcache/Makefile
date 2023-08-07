@@ -1,7 +1,7 @@
 PORTNAME=	pymemcache
 PORTVERSION=	4.0.0
 CATEGORIES=	databases python
-MASTER_SITES=	CHEESESHOP
+MASTER_SITES=	PYPI
 PKGNAMEPREFIX=	${PYTHON_PKGNAMEPREFIX}
 
 MAINTAINER=	ale_sagra@hotmail.com
@@ -20,7 +20,7 @@ TEST_DEPENDS=   ${PYTHON_PKGNAMEPREFIX}Faker>0:devel/py-Faker@${PY_FLAVOR} \
                 ${PYTHON_PKGNAMEPREFIX}python-memcached>0:databases/py-python-memcached@${PY_FLAVOR} \
                 ${PYTHON_PKGNAMEPREFIX}zstd>0:archivers/py-zstd@${PY_FLAVOR}
 
-USES=		python:3.6+
+USES=		python
 USE_PYTHON=	autoplist concurrent distutils
 
 NO_ARCH=	yes
